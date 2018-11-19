@@ -14,7 +14,7 @@
 > 업무는 개인의 개발 실력 뿐만 아니라 업무의 한 단위마다의 공통된 정의를 가지고 이슈를 공유하며 업무 커뮤니케이션의 타임렉을 최소한으로 하는 것이 가장 중요하다는 것을 배웠습니다.
 
 `보유한 기술만으로 결과를 내는 것이 아닌 끊임없이 개선점을 찾고 반영하게 되었습니다.`
-- 새로운 프로젝트 진행시 동일한 환경 구축의 코스트를 줄일 수 없을까 : react, nodejs의 개인 boilerplate를 docker image로 관리 
+- 새로운 프로젝트 진행시 동일한 환경 구축의 코스트를 줄일 수 없을까 : react, nodejs의 개인 start kit을 docker image로 관리 
 - 코드 가독성을 좀 더 높일 순 없을까 : 중첩 쿼리를 롤백이나 하나의 함수로 관리하는 것이 아닌 쿼리를 분할하여 결과 값을 객체로 관리하여 가공 
   - > return ~.then(result => { ~.then(result2 => { return ~ })}) -> const itemResult = await ~; const detailResult = await ~; resolve({item: itemResult, item_detail: detailResult })
 - 팀 내에서 중간 개발 결과물 공유를 좀 더 쉽게 할 수 없을까 : test용 instance 업로드, 빌드, 배포 > [Now](https://zeit.co/now) 발견 및 적용 (develop stage CI/CD 환경은 구축되어있지 않았습니다.)
