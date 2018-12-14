@@ -46,6 +46,9 @@
 </br> -->
 
 ## 경력사항
+### CodeStates (2018.12)
+- Education Software Engineer
+
 ### (주) 열두달 (2016~2018)
 #### 
 - **Gofooda 개발**
