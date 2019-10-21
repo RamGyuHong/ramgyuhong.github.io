@@ -6,9 +6,9 @@
 </br>
 
 ## 경력사항
-### CodeStates (2018.12)
+### (주) 코드스테이츠 (2018.12)
 ####
-- **Codestates 웹사이트 리펙토링**
+- **웹사이트 리펙토링**
   - 메인 홈페이지 리펙토링 및 유지보수, 운영 주도
     - React + TS + ReduxSaga
     - Node + TS + SequelizeORM
