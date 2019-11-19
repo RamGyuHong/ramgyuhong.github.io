@@ -15,6 +15,7 @@
     - Common Component 분할 및 설계, 구현
   - 빌링 결제, 1회성 결제 기능 구현
     - Iamport, nicepay(빌링), Inipay(1회성)
+  - [Click Link](https://codestates.com/)
 - **스프린트 세션 진행**
   - 강의 진행 및 체크인 진행
     - Server, Database, Authentification 세션 콘텐츠 개선 및 진행
