@@ -1,6 +1,7 @@
 # 이력서
-
 - 최규홍 ramgyuhong@gmail.com / 010-4922-6399
+
+## 이력페이지
 - https://ramgyuhong.github.io
 
 </br>
@@ -9,7 +10,7 @@
 ### (주) 코드스테이츠 (2018.12 ~ 2019.11)
 ####
 - **웹사이트 리펙토링**
-  - 메인 홈페이지 리펙토링 및 유지보수, 운영 주도
+  - 메인 홈페이지 클라이언트 및 서버 리펙토링 및 유지보수, 운영 주도
     - React + TS + ReduxSaga
     - Node + TS + SequelizeORM
     - Common Component 분할 및 설계, 구현
