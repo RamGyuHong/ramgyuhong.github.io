@@ -16,15 +16,6 @@ Author URL:https://themeforest.net/user/WebFirefly
 	
 	$(document).ready(function(){
 		/*==========================
-		javaScript for typed string
-		============================*/
-		var typed = new Typed('.typed', {
-            stringsElement: '.typed-strings',
-            typeSpeed: 100,
-            backSpeed: 20,
-            loop: true 
-        });
-		/*==========================
 		javaScript for smooth scroll
 		============================*/
 		$(".navbar-nav .nav-link").on("click", function(e){
