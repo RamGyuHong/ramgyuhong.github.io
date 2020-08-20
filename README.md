@@ -73,7 +73,7 @@
 ## 프로젝트
 ### Jalla
  - 머신러닝기반 헤어디자이너 추천 플랫폼
- - FrontEnd 담당
+   - React, Ts, mobX
 
 ### OpenCVE
 - 영상처리 기반 체스 기보인식 솔루션
