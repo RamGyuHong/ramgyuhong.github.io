@@ -7,6 +7,22 @@
 </br>
 
 ## 경력사항
+### 휴맥스 모빌리티(카플랫) (2020.04 ~ )
+####
+- **카플랫 비즈**
+  - B2B용 하이브리드 모바일 어플리케이션 서비스 서버 및 웹 클라이언트 개발 및 운영
+    - React + Ts + ReduxSaga + preact
+    - Nest + Ts
+    - BFF 패턴 적용
+  - 구독 결제 및 차량 제어 기능
+  - [안드로이드](https://play.google.com/store/apps/details?id=kr.co.plat.carplat.biz)
+  - [IOS](https://apps.apple.com/kr/app/%EC%B9%B4%ED%94%8C%EB%9E%AB-%EB%B9%84%EC%A6%88-%EA%B8%B0%EC%97%85-%EC%B9%B4%EC%85%B0%EC%96%B4%EB%A7%81/id1502983697)
+- **카플랫 기업관리자**
+  - B2B용 기업관리자 서버 및 웹 클라이언트 개발 및 운영
+    - React + Ts + ReduxSaga
+    - Nest + Ts
+  - 서버 코드 운영 유지 리펙토링
+
 ### (주) 코드스테이츠 (2018.12 ~ 2019.11)
 ####
 - **웹사이트 리펙토링**
