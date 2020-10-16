@@ -1,5 +1,8 @@
 # 이력서
-- 최규홍 ramgyuhong@gmail.com / 010-4922-6399
+- 최규홍 ramgyuhong@gmail.com / 010-4922-6399 / 1994.12.14
+
+## 학력
+- 한국애니메이션 고등학교 2013
 
 ## 이력페이지
 - https://ramgyuhong.github.io
