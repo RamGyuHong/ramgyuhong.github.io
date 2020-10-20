@@ -1,11 +1,14 @@
 # 이력서
 - 최규홍 / ramgyuhong@gmail.com / 010-4922-6399 / 1994.12.14
 
+## 이력페이지
+- https://ramgyuhong.github.io
+
 ## 학력
 - 한국애니메이션 고등학교 졸업 - 2013
 
-## 이력페이지
-- https://ramgyuhong.github.io
+## 수상 경력 
+- 2012 전국 정보처리경진대회 대상(미래창조과학부 장관상)
 
 </br>
 
