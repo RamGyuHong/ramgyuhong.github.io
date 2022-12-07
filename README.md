@@ -132,3 +132,8 @@
 - 이화여자대학 CampusCEO 6,7기
 - CampusCEO CodeClub Android, C 강사
 - 한양대학교 동아리 Forif Android 강사
+
+</br>
+
+### 기타 사항
+ - 보충역 산업기능요원 2021.08.27 편입
