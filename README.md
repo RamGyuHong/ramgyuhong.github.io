@@ -20,7 +20,7 @@
   - 코인 거래소 서버 개발 및 운영
   - ISMS 요구사항 충족
     - 사용자 인증과 거래 자격 검증 용 KYC 시스템 구축
-    - Java, Spring�
+    - Java, Spring Boot
   - AWS 사설망에 협업, 공용 서비스 구축 
     - Github Enterprise, RocketChat, RedMine, Jira, Confluence
   - AWS Lambda를 이용하여 서비스 알림(사내메신저, 메신저, Email, 등) 서비스 개발
