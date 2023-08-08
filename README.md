@@ -29,7 +29,7 @@
   - 금융 여신사 고객정보, 전문을 기반으로한 Risk Managment System 운영 및 유지보수
     - 전문 업데이트에 따른 코드 유지보수
     - 기존 미비한 로깅 시스템 추가 
-    - 공용 상수, 규칙 enum, object화 하여 관리
+    - 코드 개선: 불규칙적으로 퍼져있는 공용 상수, 규칙 enum 등 재정의
     
 ### 휴맥스 모빌리티(카플랫) (2020.04 ~ 2021.08)
 ####
@@ -38,7 +38,8 @@
     - React + Ts + ReduxSaga + preact
     - Nest + Ts
     - BFF 패턴 적용
-  - 구독 결제 및 차량 제어 기능
+    - 구독 결제 및 차량 제어 기능
+    - 불규칙적인 차량 예약 시스템 기능
   - [안드로이드](https://play.google.com/store/apps/details?id=kr.co.plat.carplat.biz)
   - [IOS](https://apps.apple.com/kr/app/%EC%B9%B4%ED%94%8C%EB%9E%AB-%EB%B9%84%EC%A6%88-%EA%B8%B0%EC%97%85-%EC%B9%B4%EC%85%B0%EC%96%B4%EB%A7%81/id1502983697)
 - **카플랫 기업관리자**
@@ -46,15 +47,16 @@
     - React + Ts + ReduxSaga
     - Nest + Ts
   - 서버 코드 운영 유지 리펙토링
+    - 공용 Components & API private package화 
 
 ### (주) 코드스테이츠 (2018.12 ~ 2019.11)
 ####
 - **웹사이트 리펙토링**
-  - 메인 홈페이지 클라이언트 및 서버 리펙토링 및 유지보수, 운영 주도
+  - 메인 홈페이지 클라이언트 및 서버 리펙토링(리빌드) 및 유지보수, 운영 주도
     - React + TS + ReduxSaga
     - Node + TS + SequelizeORM
     - Common Component 분할 및 설계, 구현
-  - 빌링 결제, 1회성 결제 기능 구현
+  - 빌링 결제, 1회성 결제, 비정기 분할 결제 기능 구현
     - Iamport, nicepay(빌링), Inipay(1회성)
   - [Click Link](https://codestates.com/)
 - **스프린트 세션 진행**
@@ -100,6 +102,7 @@
    - React, Ts, mobX
 
 ### OpenCVE
+- C++, OpenCV
 - 영상처리 기반 체스 기보인식 솔루션
 - 체스 보드, 체스말 인식 알고리즘 최적화
 - 카메라 인식 범위 증가
@@ -107,15 +110,17 @@
 
 ### KIZNIC(SW Maestro)
 - 위치기반 키즈 피크닉 플랫폼
-- Android App 개발
+- Android(JAVA) App 개발
 - 기획 및 BM 설계
 
 ### 오늘은 내가 동화 요리사
+- Javascript, LG SmartTV SDK 
 - 키넥트기반 동화 분기 진행 솔루션
 - 임베디드 경진대회 LG smart TV 부문
 - 스켈레톤 패턴 분석 및 인식
 
 ### KIZNIC(SW R&D)
+ - Android(JAVA), nodeJS
  - 근거리 위치 측위 기반 어린이 안전 솔루션
  - 비콘(AP) 강도 및 디바이스의 자이로 센서 등을 활용한 3차원 측위 지원 솔루션 개발
 
