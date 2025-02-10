@@ -1,5 +1,5 @@
 # 이력서
-- 최규홍 / ramgyuhong@gmail.com / 010-4922-6399 / 1994.12.14
+- 최규홍 / ramgyuhong@gmail.com / 1994.12.14
 
 </br>
 
